@@ -32,3 +32,9 @@ fields:
   - type: text
     name: button_text
     label: Button Text
+- name: test
+  type: text
+  config:
+    required: false
+  label: test
+  description: teste
