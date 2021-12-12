@@ -47,3 +47,11 @@ fields:
   - type: text
     name: button_text
     label: Button text
+- name: test
+  type: blocks
+  label: test
+  template_types:
+  - default
+  config:
+    min: 
+    max: 
